@@ -118,7 +118,7 @@ import BlynkLib
 import time
 
 # Blynk Authentication Token
-BLYNK_AUTH = "ffJdHfWPoILigXwbHGHyJUuAatti5aBO"
+BLYNK_AUTH = "ZzIOqjuTj74gjmKEy00aSIAmAxddQaWw"
 
 # GPIO Pin Definitions
 IR_PIN = 18
@@ -208,7 +208,8 @@ finally:
 
 <img width="1280" height="720" alt="image" src="https://github.com/user-attachments/assets/9f16d60d-3052-4a7c-a1db-d21ca3991ca3" />
 
-<img width="1315" height="754" alt="image" src="https://github.com/user-attachments/assets/a9b123cc-acba-409d-a4a2-7bb37278308c" />
+<img width="1668" height="943" alt="image" src="https://github.com/user-attachments/assets/26172880-64dc-42cc-85f3-027b1d52baf2" />
+
 
 <img width="1080" height="2400" alt="image" src="https://github.com/user-attachments/assets/cb3277fa-ea44-4f73-8f96-8b30fd1a3496" />
 
